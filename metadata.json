@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CodeShelf - Read. Watch. Code.",
+  "description": "A premium online platform for programming books and video tutorials, designed to make coding education simple and inspiring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
