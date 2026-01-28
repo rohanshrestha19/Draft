@@ -3,7 +3,7 @@
   "homepage": "https://rohanshrestha19.github.io/draft",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module"
   "scripts": {
     "dev": "vite",
     "build": "vite build",
