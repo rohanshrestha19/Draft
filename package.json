@@ -1,6 +1,6 @@
 {
   "name": "copy-of-codeshelf-read-watch-code",
-  "homepage": "https://rohanshrestha19.github.io/Draft",
+  "homepage": "https://rohanshrestha19.github.io/draft",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -23,4 +23,11 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "start": "react-scripts start",
+  "build": "react-scripts build"
+}
+
 }
